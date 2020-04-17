@@ -1,0 +1,1 @@
+<?php$alive = true;while($alive) {    eat();    sleep();    code();    repeat();}

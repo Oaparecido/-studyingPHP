@@ -1,0 +1,1 @@
+<?php$nomes = 'Daniel, Maria, Franciele, Joao';echo $nomes . PHP_EOL;$arrayNomes = explode(", ", $nomes);var_dump($arrayNomes);$nomesJuntosNovamente = implode(", ", $arrayNomes);echo $nomesJuntosNovamente;

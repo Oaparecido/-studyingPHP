@@ -1,0 +1,19 @@
+{
+    "name": "aparecido/doctrine",
+    "description": "Aula sobre Doctrine da alura",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "daniel.aparecido@maquinadobem.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.7",
+        "doctrine/migrations": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alura\\Doctrine\\": "src/"
+        }
+    }
+}

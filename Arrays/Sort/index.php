@@ -1,0 +1,1 @@
+<?php$saldos = [    200,    899,    500,    431,    100];var_dump($saldos);sort($saldos);var_dump($saldos);

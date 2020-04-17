@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ef39ee2-aaac-4ff2-9cc3-4bd5eae6083c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1aPMBYEqpc0Ydv70hh5BALwk4Xs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php (2)">
+    <configuration name="index.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Sort/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ImplodeExplode/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Calculadora/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php (2)" />
+        <item itemvalue="PHP Script.index.php (1)" />
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ef39ee2-aaac-4ff2-9cc3-4bd5eae6083c" name="Default Changelist" comment="" />
+      <created>1586632640869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586632640869</updated>
+      <workItem from="1586632642343" duration="2936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="152" width="721" height="812" key="#PHP" timestamp="1586633175113">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="589" y="152" width="721" height="812" key="#PHP/0.30.2944.1050@0.30.2944.1050" timestamp="1586633175113" />
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586633161613">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="418" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.2944.1050@0.30.2944.1050" timestamp="1586633161613" />
+    <state x="677" y="241" width="555" height="630" key="#index.php" timestamp="1586633177465">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="677" y="241" width="555" height="630" key="#index.php/0.30.2944.1050@0.30.2944.1050" timestamp="1586633177465" />
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl" timestamp="1586638523445">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl/0.30.2944.1050@0.30.2944.1050" timestamp="1586638523445" />
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom" timestamp="1586638525303">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom/0.30.2944.1050@0.30.2944.1050" timestamp="1586638525303" />
+    <state width="1878" height="284" key="GridCell.Tab.0.center" timestamp="1586638525303">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.center/0.30.2944.1050@0.30.2944.1050" timestamp="1586638525303" />
+    <state width="1878" height="284" key="GridCell.Tab.0.left" timestamp="1586638525303">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.left/0.30.2944.1050@0.30.2944.1050" timestamp="1586638525303" />
+    <state width="1878" height="284" key="GridCell.Tab.0.right" timestamp="1586638525303">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.right/0.30.2944.1050@0.30.2944.1050" timestamp="1586638525303" />
+    <state x="684" y="374" width="562" height="364" key="NewPhpClassDialog" timestamp="1586633869791">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="684" y="374" width="562" height="364" key="NewPhpClassDialog/0.30.2944.1050@0.30.2944.1050" timestamp="1586633869791" />
+    <state x="767" y="481" width="375" height="150" key="NewPhpFileDialog" timestamp="1586633877239">
+      <screen x="0" y="30" width="2944" height="1050" />
+    </state>
+    <state x="767" y="481" width="375" height="150" key="NewPhpFileDialog/0.30.2944.1050@0.30.2944.1050" timestamp="1586633877239" />
+  </component>
+</project>

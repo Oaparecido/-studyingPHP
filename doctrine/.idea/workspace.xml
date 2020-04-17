@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a64444f-22af-44e5-8e3b-bd2dbc31037a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aaZHn4SdWBuXXsUX56qEQofUkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/commands" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.buscar-aluno.php">
+    <configuration name="buscar-aluno.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commands/buscar-aluno.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="criar-aluno.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commands/criar-aluno.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="teste1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/teste1.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.buscar-aluno.php" />
+        <item itemvalue="PHP Script.criar-aluno.php" />
+        <item itemvalue="PHP Script.teste1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a64444f-22af-44e5-8e3b-bd2dbc31037a" name="Default Changelist" comment="" />
+      <created>1586975579285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586975579285</updated>
+      <workItem from="1586975580452" duration="7107000" />
+      <workItem from="1586983692344" duration="3196000" />
+      <workItem from="1587049602463" duration="6115000" />
+      <workItem from="1587080420644" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="264" width="824" height="680" key="#CLI_Interpreters" timestamp="1586976869214">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="523" y="264" width="824" height="680" key="#CLI_Interpreters/0.30.1920.1050@0.30.1920.1050" timestamp="1586976869214" />
+    <state x="737" y="474" width="417" height="204" key="#Composer" timestamp="1586975587589">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="737" y="474" width="417" height="204" key="#Composer/0.30.1920.1050@0.30.1920.1050" timestamp="1586975587589" />
+    <state x="592" y="164" width="696" height="885" key="#PHP" timestamp="1586976876116">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="592" y="164" width="696" height="885" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1586976876116" />
+    <state x="555" y="216" width="800" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587054697838">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="555" y="216" width="800" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587054697838" />
+    <state x="726" y="274" width="458" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1587060591480">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="726" y="274" width="458" height="558" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1587060591480" />
+    <state x="643" y="308" width="604" height="600" key="#teste1.php" timestamp="1586976880107">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="643" y="308" width="604" height="600" key="#teste1.php/0.30.1920.1050@0.30.1920.1050" timestamp="1586976880107" />
+    <state x="738" y="310" width="424" height="480" key="FileChooserDialogImpl" timestamp="1587054694460">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="738" y="310" width="424" height="480" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1587054694460" />
+    <state width="1294" height="281" key="GridCell.Tab.0.bottom" timestamp="1587062765290">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1294" height="281" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587062765290" />
+    <state width="1294" height="281" key="GridCell.Tab.0.center" timestamp="1587062765288">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1294" height="281" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587062765288" />
+    <state width="1294" height="281" key="GridCell.Tab.0.left" timestamp="1587062765287">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1294" height="281" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587062765287" />
+    <state width="1294" height="281" key="GridCell.Tab.0.right" timestamp="1587062765289">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1294" height="281" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587062765289" />
+    <state width="240" height="537" key="HiddenNamespacesPopup" timestamp="1586979936447">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="240" height="537" key="HiddenNamespacesPopup/0.30.1920.1050@0.30.1920.1050" timestamp="1586979936447" />
+    <state x="672" y="291" width="546" height="569" key="NewPhpClassDialog" timestamp="1587060541022">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="672" y="291" width="546" height="569" key="NewPhpClassDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587060541022" />
+    <state x="758" y="532" width="375" height="151" key="NewPhpFileDialog" timestamp="1587060519962">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="758" y="532" width="375" height="151" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587060519962" />
+    <state x="812" y="250" width="286" height="605" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1586982518061">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="812" y="250" width="286" height="605" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1586982518061" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1586977167370">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1586977167370" />
+  </component>
+</project>

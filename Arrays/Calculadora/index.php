@@ -1,0 +1,1 @@
+<?phprequire_once 'Media.php';use Calculador\Media\Media;$notas = [10, 10, 10, 10, 10];$conta = new Media();$media = $conta->calculaMedia($notas);echo "A media e de : $media";
